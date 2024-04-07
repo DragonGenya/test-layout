@@ -28,7 +28,7 @@ code {
 }
 
 .dashboard {
-  background-color: #5ca794;
+  background-color: #449c86;
   grid-column: 1 / 1;
   grid-row: 1 / 2;
   justify-content: center; /* Center the content horizontally */
@@ -44,7 +44,7 @@ code {
 }
 
 .rightboard {
-  background-color: #F4D35E;
+  background-color: #e5d187;
   grid-column: 3 / 3;
   grid-row: 1 / 2;
   justify-content: center; /* Center the content horizontally */
