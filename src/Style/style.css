@@ -28,7 +28,7 @@ code {
 }
 
 .dashboard {
-  background-color: #FF5733;
+  background-color: #5ca794;
   grid-column: 1 / 1;
   grid-row: 1 / 2;
   justify-content: center; /* Center the content horizontally */
